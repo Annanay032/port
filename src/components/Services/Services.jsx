@@ -30,10 +30,8 @@ const Services = () => {
         Enthusiastic Front End Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills.
           <br />
           <br />
-          I have been working in Aerchain (SAAS based Company) as a Front End Dev for 1 Year and 7 Months, I have solely handled many modules,
-          <br />
-To name a few: Dashboard, login, Order Listing, Analysis, Customer/Supplier onboarding Form, Settings, Audit & Activity Logs, and Templates. Using JavaScript, React, and Libraries like Material UI, Ant Design, Tanstack, and AgGrid Tables
-<br />
+          I have been working with a SAAS based Company as a Front End Dev for 2+ years, Developed stunning user interfaces and scalable, responsive web applications using JavaScript, React JS, Redux,
+HTML, CSS, and libraries to build excellent UI like MaterialUI, Ant Design, Tanstack, and AgGrid.
 Apart from this, I have integrated Language Localization and 	Internationalization into our system. so it made it possible to access our web app in any language the user desires.
 <br />
 I worked with a team of 3 on setting up AWS and Zero Down Time during Deployment also integrated Chatbot Widget 
