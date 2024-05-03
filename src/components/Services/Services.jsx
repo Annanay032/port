@@ -30,7 +30,7 @@ const Services = () => {
         Enthusiastic Front End Developer eager to contribute to team success through hard work, attention to detail, and excellent organizational skills.
           <br />
           <br />
-          I have been working with a SAAS based Company as a Front End Dev for 2+ years, Developed stunning user interfaces and scalable, responsive web applications using JavaScript, React JS, Redux,
+          I have been working with a SAAS based Company as a Front End Dev for 2.5+ years, Developed stunning user interfaces and scalable, responsive web applications using JavaScript, React JS, Redux,
 HTML, CSS, and libraries to build excellent UI like MaterialUI, Ant Design, Tanstack, and AgGrid.
 Apart from this, I have integrated Language Localization and 	Internationalization into our system. so it made it possible to access our web app in any language the user desires.
 <br />

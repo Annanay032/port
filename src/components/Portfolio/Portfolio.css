@@ -9,15 +9,29 @@
 /* heading */
 .portfolio span:nth-of-type(1) {
   color: var(--black);
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
 .portfolio span:nth-of-type(2) {
   color: var(--orange);
-  font-size: 2.5rem;
+  font-size: 2rem;
   font-weight: bold;
 }
+
+.portfolio span:nth-of-type(4) {
+  color: var(--black);
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 56px;
+}
+
+.portfolio span:nth-of-type(5) {
+  color: var(--orange);
+  font-size: 2rem;
+  font-weight: bold;
+}
+
 
 /* slider */
 .portfolio .swiper{
@@ -40,4 +54,35 @@
 
 .skills-charts {
   margin-right: 20%;
+}
+
+.modal {
+  position: relative;
+  z-index: 10;
+  left: 20%;
+  margin-top: -32rem;
+
+}
+
+.expanded-image {
+  width: 1000px !important;
+   height:650px !important
+}
+
+.modal-content {
+  display: flex;
+  margin: 1rem !important;
+  padding: 1rem !important;
+}
+
+.close {
+  cursor: pointer;
+  color: white !important;
+  font-size: 36px;
+  margin-left: 0.3rem !important;
+
+}
+
+.portfolio.exp {
+  filter: blur(15px); 
 }
